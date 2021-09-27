@@ -3,3 +3,5 @@
 - 100% responsive
 - Added JavaScript functionality to toggle between dark mode and light mode on an article. 
 - The button also changes its text to the appropriate theme
+
+Demo: https://github.com/dillon-porter/Dark-and-Light-mode-toggle/settings/pages
