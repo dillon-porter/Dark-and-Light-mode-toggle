@@ -1,4 +1,4 @@
-# Dark-and-Light-mode-toggle
+# Dark-and-Light-mode-toggle in JavaScript
 - Light and Dark Mode with toggle theme change
 - 100% responsive
 - Added JavaScript functionality to toggle between dark mode and light mode on an article. 
